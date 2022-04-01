@@ -6,3 +6,5 @@ This is to aid sustainability efforts and to help solve the problem statement.
 
 googlesearch uses beautiful soup and selenium to web scrape - beautiful soup does only static scraping and ignores JavaScript. The combination of beautiful soup & selenium will help to do dynamic scraping, as selenium automates web browser interaction from python. So, data rendered by JavaScript links can be made available by automating button clicks with selenium, and data, can be extracted by beautiful soup.
 googlesearch will be able to lead us to the document containing the list of chemicals (extracting tables and data, as well as translation, is done by chemical-search-engine).
+
+disclaimer: they technically only work partially
